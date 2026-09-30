@@ -1,8 +1,22 @@
 # Hi 👋, I'm Aayush Thokar
 
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=FFFFFF&vCenter=true&width=600&lines=A+passionate+Full+Stack+Developer+from+Nepal+%F0%9F%87%B3%F0%9F%87%B5;Building+modern+web+applications;Learning+AI+Agents%2C+MCP+%26+Automation" />
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=FFFFFF&vCenter=true&width=600&lines=A+passionate+Full+Stack+Developer+from+Nepal+%F0%9F%87%B3%F0%9F%87%B5;Building+modern+web+applications;Learning+AI+Agents%2C+MCP+%26+Automation"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=000000&vCenter=true&width=600&lines=A+passionate+Full+Stack+Developer+from+Nepal+%F0%9F%87%B3%F0%9F%87%B5;Building+modern+web+applications;Learning+AI+Agents%2C+MCP+%26+Automation"
+    />
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=000000&vCenter=true&width=600&lines=A+passionate+Full+Stack+Developer+from+Nepal+%F0%9F%87%B3%F0%9F%87%B5;Building+modern+web+applications;Learning+AI+Agents%2C+MCP+%26+Automation"
+      alt="A passionate Full Stack Developer from Nepal"
+    />
+  </picture>
 </p>
+
 
 * 🌱 I’m currently learning **MERN Stack, Next.js, AI Agents, MCP & Automation**
 * 👨‍💻 I’m currently working on **AThor — AI Developer Agent**
@@ -16,8 +30,9 @@
 ### 🔥 GitHub Streak
 
 <p align="left">
-  <img src="https://streak-stats.demolab.com?user=thokaraayush44&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=thokaraayush44&theme=dark&hide_border=true" alt="Aayush's GitHub Streak" />
 </p>
+
 
 ### Connect with me:
 
